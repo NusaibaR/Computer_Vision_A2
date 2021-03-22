@@ -2,7 +2,7 @@
 The projects includes the folowing 3 files:
 
 1- Image Segmentation using K-means & EM:
-   The k-means and EM algorthum are implmented from scratch using numpy library. 
+   The k-means and EM algorithms are implmented from scratch using numpy library. 
    
 2- Stereo Vision with Epipolar Geometry:
    Implmented using OpenCV library.
