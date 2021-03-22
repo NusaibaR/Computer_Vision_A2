@@ -1,0 +1,5 @@
+The following library are nedded to run the programs:
+-Numpy 
+-Matplotlib
+-OpenCV
+-sklearn
